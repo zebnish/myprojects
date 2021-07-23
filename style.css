@@ -1,12 +1,3 @@
-#app {
-    width: 100%;
-    height: 800px;
-    background-color: aliceblue;
+body{
+    background-color: aqua;
 }
-
-.container
-{
-    text-align: center;
-}
-
-/*Start your code from here */
